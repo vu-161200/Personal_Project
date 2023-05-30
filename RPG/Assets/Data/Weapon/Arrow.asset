@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 415fb6f12f4e37f42a5de508a3ac2338, type: 3}
+  m_Name: Arrow
+  m_EditorClassIdentifier: 
+  ID: Arrow
+  itemType: 3
+  equipType: 0
+  itemIcon: {fileID: 21300000, guid: ee39ff84d05008548a058f8a80c8e736, type: 3}
+  itemName: Arrow
+  itemDescription: 
+  price: 1
+  maxStack: 99
+  forwardVelocity: 550
+  upwardVelocity: 0
+  arrowMass: 0
+  useGravity: 0
+  damage: 15
+  loadedItemModel: {fileID: 4744046806175583683, guid: 24a195e9e1835314785ae18e6e02476d, type: 3}
+  liveItemModel: {fileID: 4744046806175583683, guid: cd57a144e686f4241abe16903774e481, type: 3}
+  penetratedItemModel: {fileID: 4744046806175583683, guid: aa58e16500d74874095f4eade5958bc9, type: 3}

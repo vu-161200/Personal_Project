@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0b5575716b91643b7a1e2973fb36e7, type: 3}
+  m_Name: Escort Tyeis
+  m_EditorClassIdentifier: 
+  availableDialogues:
+  - Please lead the way, I will follow closely behind you.
+  acceptedDialogues:
+  - Let's set off together.
+  completedDialogues:
+  - Finally escaped from the prison and the monsters. I'll rest for a while, and
+    report back on the situation inside for me.
+  questName: Escort Tyeis
+  questProgress: 2
+  goals:
+  - goalType: 5
+    completed: 0
+    ID: Tyeis
+    description: 'Escort Tyeis Back '
+    currentAmount: 0
+    requiredAmount: 1
+  expReward: 100
+  goldReward: 100
+  itemsReward: []

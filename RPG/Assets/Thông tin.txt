@@ -1,0 +1,25 @@
+
+================= MOVE =================
+- WASD: Di chuyển
+- Space: Nhảy
+- E: Mở túi đồ
+- F: Tương tác (Nhặt, mở cửa, mở rương ...)
+- X: Uống máu/mana/exp
+- Chuột trái: Light Attack (Gần chém hết -> ấn đánh tiếp sẽ thực hiện combo tiếp theo (nếu VK có))
+- Chuột giữa: Heavy Attack
+- Chuột phải (Click): Parry (Parry đúng lúc quái vật gây sát thương ==> Bị choáng)
+- Chuột phải (Hold): Chặn khiên / Ngắm (cung)
+
+================= QUEST =================
+- Mới vào đi lên tầng sẽ gặp NPC (NPC chính) để nhận NV
+    + Nhiệm vụ 1: Đi vào phòng phía sau NPC và lấy đồ theo yêu cầu
+    + Nhiệm vụ 2: Đi xuống tầng và tương tác với cửa đôi (chỗ xuất hiện khi mới chơi) để dịch chuyển 
+    + Nhiệm vụ 3: Đi qua cửa đơn và đâm thẳng tới của đôi phía cuối (Đằng sau NPC 'Leroy') để dịch chuyển
+
+- MAP của nhiệm vụ 2
+    + Nhiệm vụ 1: Đi xuống hầm ngục (đâm thẳng theo đường) và gặp NPC đang bị giam
+    + Vị trí đội trưởng để lấy chìa khóa: rẽ trái (góc không có con quái vật nào) ở sảnh chính
+    + Vị trí boss MAP: ở trên tầng (Lên = cầu thang ở sảnh chính)
+
+- MAP của nhiệm vụ 3
+    + Nhận NV và đi theo đường để vào

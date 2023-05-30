@@ -1,0 +1,16 @@
+
+===================== WORKING =====================
+- Quái vật
+- NV tăng cấp, chỉ số cơ bản
+
+
+
+==================== COMPLETED ====================
+- Hồi sinh ==> OK
+- Hết cung không cho bắn ==> OK
+- AI không đi lên/xuống cầu thang hoặc dốc ==> OK
+- Nhiệm vụ ==> OK
+- Quest bị lỗi ==> OK
+- Boss ==> OK
+- Thêm bình mana + exp ==> OK
+- Hiển thị thông tin vật phẩm bị tràn ra ngoài màn hình ==> OK

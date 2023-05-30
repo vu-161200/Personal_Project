@@ -1,0 +1,151 @@
+* NPC: Dawkins (Map Ivorystars)
+    - Quest 1 (Intro Quest): Thu thập vật phẩm cơ bản
+        == Nhận NV ==
+        + Xin chào nhà mạo hiểm giả, tôi là Dawkins - chủ công hội 'Ivorystars'. Cuối cùng cũng có một nhà mạo hiểm giả nổi tiếng như ngài đã chịu nhận ủy thác của chúng tôi. Sau đây, tôi xin giới thiệu qua về ủy thác
+            Hello adventurer, I'm Dawkins - the owner of the guild 'Ivorystars'. Finally, a famous adventurer like you has accepted our entrustment. Here, I would like to introduce about trust
+        + Thời gian trước, 'Moongarde' - một chi nhánh của công hội chúng tôi đã bị lũ quái vật tấn công và chiếm đóng. Chúng tôi đã cho vài người vào thăm dò nhưng không vào được sâu bên trong. Do đó, chúng tôi xin nhờ ngài giúp đỡ.
+            A while ago, 'Moongarde' - a branch of our guild was attacked and occupied by monsters. We've sent a few people in to probe but we haven't been able to get deep inside. Therefore, we ask for your help.
+        + Trước khi bắt đầu ủy thác, ngài cần một vài trang bị và vật dụng cơ bản. Chúng tôi đã chuẩn bị chúng, ngài có thể lấy tại căn phòng nhỏ ở cuối tầng.
+            Before starting the entrustment, you need some basic equipment and supplies. We've prepared them, you can get them in the small room at the bottom of the floor.
+        
+        == Đã nhận NV ==
+        + Tình hình hiện nay tại chi nhánh 'Moongarde' khá khó lường. Vì vậy, hãy nhanh chóng đến căn phòng đó để lấy vật phẩm hỗ trợ trước khi bắt đầu ủy thác.
+            The current situation at the 'Moongarde' branch is quite unpredictable. So hurry to that room to get the support item before starting the entrustment.
+
+        == Hoàn thành NV ==
+        + Mặc dù chúng chỉ là những vật phẩm cơ bản nhưng chúng sẽ hỗ trợ một phần cho ngài. Ngài hãy nghỉ ngơi và chuẩn bị mọi thứ ổn thỏa trước khi bắt đầu ủy thác.
+            Although they are only basic items, they will partially support him. Please rest and prepare everything well before starting the entrustment.
+
+
+    - Quest 2 (Rescue Moongarden): Giải cứu chi nhánh 'Moongarden'
+        == Nhận NV ==
+        + Trước đó, chúng tôi đã cử một đội tới canh giữ cửa chính để ngăn đám quái vật rút lui cũng như bổ sung thêm viện trợ. Theo chúng tôi tính toán, chỗ lương thực còn lại không nhiều nên chúng sẽ sớm rời khỏi đó.
+            Before that, we sent a team to guard the main door to prevent the monsters from retreating as well as replenishing aid. According to our calculations, there is not much food left, so they will leave soon.
+        + Do đó, ngài hãy tới đó và liên lạc với đội trưởng 'Dennis' - người sẽ cung cấp các thông tin cũng như các công việc cần thiết cho ngài
+            Therefore, please go there and contact the captain 'Dennis' who will provide you with the necessary information and tasks.
+        + Có vẻ như ngài đã sẵn sàng, hãy bắt đầu khởi hành tới 'Moongarden'. Chúc ngài thuận lợi và may mắn!
+            Looks like you're ready, let's depart for 'Moongarden'. Good luck and good luck!
+        
+        == Đã nhận NV ==
+        + Chúng tôi tin tưởng ngài sẽ dễ dàng hoàn thành nhiệm vụ!. Chúc ngài thuận lợi với ủy thác.
+            We trust you to complete the task easily!. Good luck with the trust.
+
+        == Hoàn thành NV ==
+        + Ngài đúng là một nhà mạo hiểm tài giỏi! Cảm ơn sự giúp đỡ của ngài, xin hãy nhận lấy phần quà của chúng tôi
+            You are such a talented adventurer! Thank you for your help, please accept our gift
+
+
+    - Quest 3 (Conquer Dungeon)
+        == Nhận NV ==
+        + Nhờ có ngài mà chúng tôi đã thành công chiếm lại chi nhánh này và giải cứu được tiểu thư 'Tyeis'. Chúng tôi rất biết ơn về điều đó.
+            Thanks to you, we succeeded in recapturing this branch and rescuing Lady 'Tyeis'. We are very grateful for that.
+        + May mắn ngài vẫn chưa rời khỏi công hội của chúng tôi, chúng tôi vừa phát hiện một hầm ngục ở dưới lòng đất. Do ngài vừa xong ủy thác trên nên chúng tôi mong muốn ngài có thực hiện luôn ủy thác lần này.
+            Luckily you haven't left our guild yet, we just discovered an underground dungeon. Since you have just completed the above entrustment, we would like you to carry out this entrustment as well.
+        + Ngài hãy tới địa điểm đó và gặp 'Keegan' - người phát hiện ra hầm ngục để có thêm thông tin cũng như nhiệm vụ
+            Please go to that location and meet 'Keegan' who discovered the dungeon for more information and quests.
+        + Trước khi khởi hành, ngài có thể tới gặp 'Leroy' - một thương nhân khá nổi tiếng vừa mới nghỉ tạm tại công hội chúng tôi để bổ sung các vật phẩm cần thiết. Chúc ngài may mắn!
+            Before departing, you can visit 'Leroy' - a fairly famous merchant who has just taken a break from our guild to replenish the necessary items. Good luck to you!
+
+        == Đã nhận NV ==
+        + Ủy thác lần này khá khó khăn với nguy hiểm, do đó ngài hãy cẩn thận! Chúng tôi tin tưởng ngài sẽ hoàn thành nó.
+            The commission this time is quite difficult and dangerous, so be careful! We trust you to get it done.
+
+        == Hoàn thành NV ==
+        + Ngài đã hoàn thành xuất sắc ủy thác mặc dù nó rất nguy hiểm. Ngài hãy nhận lấy phần thưởng của chúng tôi!
+            You have successfully completed the commission even though it is very dangerous. Please accept our reward!
+
+
+
+* NPC: Dennis (Map Moongarden)
+    - Quest 1: (Scout Monsters)
+        == Nhận NV ==
+        + Oh, có vẻ như ngài là nhà mạo hiểm đã nhận ủy thác của guild chúng tôi. Tôi là Dennis - đội trưởng được cử đến đây
+            Oh, it looks like you're an adventurer that has been entrusted with our guild. I'm Dennis - the captain sent here.
+        + Ngài tới vừa đúng lúc chúng tôi vừa do thám được vài thông tin hữu ích cho ngài: Đám quái vật tấn công có vẻ như không đông, chủ yếu là GOBLIN, do 1 con trùm chỉ huy và chúng canh giác rất lỏng nên rất dễ xâm nhập
+            You arrived just in time for us to spy on some useful information for you: The attacking monsters don't seem to be many, mainly GOBLINs, led by a boss and they are very loose guard so it's easy Intrusion.
+        + Do đó, chúng tôi mong muốn ngài do thám tình hình bên trong trước, nhất là ngục giam - nơi bọn chúng giam giữ mọi người
+            Therefore, we ask you to spy on the situation inside first, especially the prison - where they keep everyone.
+
+        == Đã nhận NV ==
+        + Ngài hãy cẩn thận khi do thám tình huống bên trong, tránh kinh động tới lũ quái vật!
+            Please be careful when scouting the situation inside, don't alarm the monsters!
+
+        == Hoàn thành NV ==
+        + Đám quái vật thật tàn bạo, may mắn chúng vẫn chưa giết tiểu thư 'Tyeis'. Ngài hãy nghỉ ngơi trong khi tôi tổng hợp lại tình hình.
+            The monsters are brutal, fortunately they haven't killed the lady 'Tyeis' yet. Please rest while I summarize the situation.
+        + Chúng ta sẽ sớm dọn sạch sẽ bọn quái vật để trả thù cho mọi người trong chi nhánh công hội đã hy sinh.
+            We will soon clear the monsters to avenge everyone in the guild branch who died.
+
+    - Quest 2: (Clean Monsters)
+        == Nhận NV ==
+        + Sau khi một hồi xem xét lại tình huống do ngài và tiểu thư 'Tyeis' cung cấp, hiện giờ khả năng không ai còn sống sót trong đó. Do đó, chúng ta sẽ tấn công thẳng vào bên trong và dọn dẹp lũ quái vật.
+            After reviewing the situation provided by you and lady 'Tyeis' for a while, it is now possible that there are no survivors in it. Therefore, we will attack directly inside and clear the monsters.
+        + Do chưa có nhiều thông tin về tên trùm nên ngài hãy cẩn thận khi gặp nó. Bây giờ chúng ta sẽ công thẳng vào luôn
+            Since there is not much information about the boss, please be careful when encountering it. Now we'll go straight to the point
+        
+        == Đã nhận NV ==
+        + Nếu cần chúng tôi hỗ trợ thì ngài hãy lên tiếng! Chúng tôi luôn sẵn sàng.
+            If you need our help, speak up! We are always ready.
+
+        == Hoàn thành NV ==
+        + Chúng ta đã hoàn thành xuất sắc nhiệm vụ được giao. Chúng ta sẽ trở về tổng bộ báo cáo tin tốt lành với ngài 'Dawkins', mọi việc còn lại đã có tiểu thư 'Tyeis' chỉ huy.
+            We have successfully completed the assigned task. We will return to headquarters and report the good news to Mr. 'Dawkins', the rest being led by Lady 'Tyeis'.
+        + Còn đây là phần thưởng của ngài, xin hãy nhận lấy.
+            And here is your reward, please take it.
+        
+
+* NPC: Tyeis
+    - Quest (Rescue Tyeis)
+        == Nhận NV ==
+        + OH, sao ngài vào được tận đây, chẳng lẽ là người của công hội tổng. Tôi là Tyeis - con gái của 'Mcbostrom' chủ chi nhánh công hội này.
+            OH, how did you get in here, you must be from the general guild. I am Tyeis - the daughter of 'Mcbostrom' the owner of this guild branch.
+        + Ngài hãy cẩn thận, bọn GOBLIN này rất ác độc, chúng giết hầu hết mọi người trong công hội kể cả cha tôi, còn những người khác tôi cũng không rõ tung tích ra sao (có lẽ cũng đã bị giết)
+            Please be careful, these GOBLINs are very evil, they killed most of the people in the guild including my father, and I don't know the whereabouts of the others (probably killed).
+        + Theo thông tin tôi thu thập được, tên trùm thường ở phòng hội trưởng tại tầng 2 và việc chỉ huy được giao cho tên đội trưởng.
+            According to the information I've gathered, the boss is usually in the guild master's room on the 2nd floor and the command is given to the captain.
+        + Vừa nãy, nghe bọn lính canh ngục trò chuyện với nhau thì tên đội trưởng hiện tại đang ở phòng bếp và hắn cũng là người giữ chìa khóa ngục. Do đó, ngài hãy xử lý hắn.
+            Just now, listening to the prison guards talking to each other, the current captain was in the kitchen and he was also the one holding the key to the prison. Therefore, please deal with him.
+
+        == Đã nhận NV ==
+        + Ngài hãy cẩn thận và tránh kinh động tới đám quái vật xung quanh. Với bản lĩnh của ngài, giải quyết tên chỉ huy không khó. Ngài hãy bắt đầu ngay.
+            Please be careful and avoid panicking the surrounding monsters. With your bravery, dealing with the commander is not difficult. Please start now.
+
+        == Hoàn thành NV ==
+        + Cảm ơn ngài rất nhiều, chúng ta hãy rời khỏi đây thôi và chuẩn bị dọn dẹp bọn quái vật.
+            Thank you very much, let's get out of here and prepare to clean up the monsters.
+
+    - Quest (Escort Tyeis)
+        == Nhận NV ==
+        + Tôi đã chuẩn bị sẵn sàng. Xin ngài hãy dẫn đường, tôi sẽ theo sát phía sau ngài.
+            Please lead the way, I will follow closely behind you.
+            
+        == Đã nhận NV ==
+        + Chúng ta cùng khởi hành ngay thôi
+            Let's set off together.
+
+        == Hoàn thành NV ==
+        + Cuối cùng cũng thoát khỏi ngục giam và đám quái vật. Tôi sẽ nghỉ ngơi tý, ngài thay tôi báo cáo lại tình hình bên trong luôn.
+            Finally escaped from the prison and the monsters. I'll rest for a while, and report back on the situation inside for me.
+
+
+* NPC: Keegan (Map hầm ngục)
+    - Quest (Explore Dungeon)
+        == Nhận NV ==
+        + Xin chào nhà mạo hiểm, bạn chắc là người vừa nhận ủy thác từ công hội. Tôi là Keegan - một thành viên trong công hội
+            Hello adventurer, you must be the one who just received a trust from the guild. I'm Keegan - a guild member.
+        + Hầm ngục này tôi vừa phát hiện không lâu trong khi đang đi tìm nguyên liệu. Bởi vì sở trường của tôi không phải chiến đấu nên tôi không dám khám phá nó nên thông tin về hầm ngục này tôi không biết nhiều.
+            This dungeon I discovered not long ago while searching for materials. Because my forte isn't fighting, I didn't dare to explore it, so I don't know much about this dungeon.
+        + Tuy nhiên tôi biết 1 loại quái vật là skeleton và chúng có vẻ không đi ra khỏi hầm ngục (bởi vì lúc tìm thấy hầm ngục tôi bị nó truy sát)
+            However, I know of one type of monster that is a SKELETON and they don't seem to come out of the dungeon (because when I found the dungeon I was hunted by it)
+        + Mong ngài hãy cẩn thận, nếu quá nguy hiểm thì ngài hãy chạy ra khỏi hầm ngục. Tôi sẽ ở đây và chờ đợi tin tốt lành từ ngài.
+            Please be careful, if it's too dangerous, run out of the dungeon. I will stay here and wait for good news from you.
+
+        == Đã nhận NV ==
+        + Có vẻ đám quái vật rất đông nên ngài hãy cẩn thận khi tiến vào!
+            There seem to be a lot of monsters so please be careful when entering!
+
+        == Hoàn thành NV ==
+        + Đã vất vả cho ngài. Chúng ta hãy trở lại báo cáo với hội trưởng 'Dawkins' thôi.
+            It's been hard for you. Let's go back to the 'Dawkins' guild master.
+        + Đây là phần thưởng của ngài.
+            This is your reward.

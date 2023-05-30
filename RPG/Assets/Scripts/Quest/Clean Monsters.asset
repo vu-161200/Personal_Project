@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0b5575716b91643b7a1e2973fb36e7, type: 3}
+  m_Name: Clean Monsters
+  m_EditorClassIdentifier: 
+  availableDialogues:
+  - After reviewing the situation provided by you and lady 'Tyeis' for a while, it
+    is now possible that there are no survivors in it. Therefore, we will attack
+    directly inside and clear the monsters.
+  - Since there is not much information about the boss, please be careful when encountering
+    it. Now we'll go straight to the point
+  acceptedDialogues:
+  - If you need our help, speak up! We are always ready.
+  completedDialogues:
+  - We have successfully completed the assigned task. We will return to headquarters
+    and report the good news to Mr. 'Dawkins', the rest being led by Lady 'Tyeis'.
+  - And here is your reward, please take it.
+  questName: Clean Monsters
+  questProgress: 0
+  goals:
+  - goalType: 1
+    completed: 0
+    ID: Enemy
+    description: Kill All Monsters
+    currentAmount: 0
+    requiredAmount: 1
+  - goalType: 1
+    completed: 0
+    ID: Commander
+    description: Kill Commander
+    currentAmount: 0
+    requiredAmount: 1
+  expReward: 500
+  goldReward: 500
+  itemsReward:
+  - item: {fileID: 11400000, guid: f5d274e308ffe13438ea412b7010d526, type: 2}
+    stackSize: 1
+  - item: {fileID: 11400000, guid: 68339819c22d8f142b28361ca5bb54a4, type: 2}
+    stackSize: 50
+  - item: {fileID: 11400000, guid: ba376492538c84048ac716af01b8f299, type: 2}
+    stackSize: 1

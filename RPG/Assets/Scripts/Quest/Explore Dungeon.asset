@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0b5575716b91643b7a1e2973fb36e7, type: 3}
+  m_Name: Explore Dungeon
+  m_EditorClassIdentifier: 
+  availableDialogues:
+  - Hello adventurer, you must be the one who just received a trust from the guild.
+    I'm Keegan - a guild member.
+  - This dungeon I discovered not long ago while searching for materials. Because
+    my forte isn't fighting, I didn't dare to explore it, so I don't know much about
+    this dungeon.
+  - However, I know of one type of monster that is a SKELETON and they don't seem
+    to come out of the dungeon (because when I found the dungeon I was hunted by
+    it).
+  - Please be careful, if it's too dangerous, run out of the dungeon. I will stay
+    here and wait for good news from you.
+  acceptedDialogues:
+  - There seem to be a lot of monsters so please be careful when entering!
+  completedDialogues:
+  - It's been hard for you. Let's go back to the 'Dawkins' guild master.
+  - This is your reward.
+  questName: Explore Dungeon
+  questProgress: 0
+  goals:
+  - goalType: 1
+    completed: 0
+    ID: Enemy
+    description: Kill All Enemies
+    currentAmount: 0
+    requiredAmount: 10
+  - goalType: 1
+    completed: 0
+    ID: BOSS
+    description: Kill BOSS
+    currentAmount: 0
+    requiredAmount: 1
+  expReward: 1000
+  goldReward: 1000
+  itemsReward:
+  - item: {fileID: 11400000, guid: 56c23c424a6b108499afe2805b1fc4f5, type: 2}
+    stackSize: 1
+  - item: {fileID: 11400000, guid: 261d685062499ce4bb54ad0fef4e4392, type: 2}
+    stackSize: 1

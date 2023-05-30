@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0b5575716b91643b7a1e2973fb36e7, type: 3}
+  m_Name: Intro Quest
+  m_EditorClassIdentifier: 
+  availableDialogues:
+  - Hello adventurer, I'm Dawkins - the owner of the guild 'Ivorystars'. Finally,
+    a famous adventurer like you has accepted our entrustment. Here, I would like
+    to introduce about trust
+  - A while ago, 'Moongarde' - a branch of our guild was attacked and occupied by
+    monsters. We've sent a few people in to probe but we haven't been able to get
+    deep inside. Therefore, we ask for your help.
+  - Before starting the entrustment, you need some basic equipment and supplies.
+    We've prepared them, you can get them in the small room at the bottom of the
+    floor.
+  acceptedDialogues:
+  - The current situation at the 'Moongarde' branch is quite unpredictable. So hurry
+    to that room to get the support item before starting the entrustment.
+  completedDialogues:
+  - 'Although they are only basic items, they will partially support him. Please
+    rest and prepare everything well before starting the entrustment. '
+  questName: 'Collect equipment and items '
+  questProgress: 2
+  goals:
+  - goalType: 2
+    completed: 0
+    ID: Sword
+    description: Collect Sword
+    currentAmount: 0
+    requiredAmount: 1
+  - goalType: 2
+    completed: 0
+    ID: Shield
+    description: Collect Shield
+    currentAmount: 0
+    requiredAmount: 1
+  - goalType: 2
+    completed: 1
+    ID: HP
+    description: Collect HP Flask
+    currentAmount: 22
+    requiredAmount: 10
+  expReward: 200
+  goldReward: 150
+  itemsReward:
+  - item: {fileID: 11400000, guid: 188b8c0d8ca318b439943b81439a6297, type: 2}
+    stackSize: 22

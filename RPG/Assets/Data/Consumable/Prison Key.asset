@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df5c7bc14ac302c41b06f315c6aa0599, type: 3}
+  m_Name: Prison Key
+  m_EditorClassIdentifier: 
+  ID: Prison Key
+  itemType: 2
+  equipType: 0
+  itemIcon: {fileID: 21300000, guid: 88ae52c17289b1b45b05a022de03b59d, type: 3}
+  itemName: Prison Key
+  itemDescription: "Used to open the prison\r"
+  price: 0
+  maxStack: 1
+  itemModel: {fileID: 322969909244090201, guid: 1a4ce7ed7389af14cbc47a4b3ba8a164, type: 3}
